@@ -13,6 +13,6 @@ The Pacific "Ring of Fire", a region where many volcanic eruptions and earthquak
 
 Geographically accurate locations of London Underground lines in greater London, United Kingdom
 
-[code](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/scripts/day2_lines.R) | [london boundary data source](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) | [TfL lines data source](https://github.com/oobrien/vis/blob/master/tubecreature/data/tfl_lines.json?short_path=1627147)
+[code](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/scripts/day2-lines.R) | [london boundary data source](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) | [TfL lines data source](https://github.com/oobrien/vis/blob/master/tubecreature/data/tfl_lines.json?short_path=1627147)
 ***
 ![]()
