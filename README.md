@@ -19,19 +19,19 @@ Geographically accurate locations of London Underground lines in greater London,
 ***
 ### 3. Polygons
 
-Description of map.
+Types of erosion across New Zealand.
 
-[code](github code link) | [data source](data link)
+[code](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/scripts/day3-polygons.R) | [data source](https://catalogue.data.govt.nz/dataset/nzlri-erosion-type-and-severity)
 
-![](github map link) 
+![](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/maps/day3_polygons.png) 
 ***
 ### 4. A bad map
 
-Description of map.
+A selection of German spa cities that historically have a "bad" prefix or contain "bad" in the town name.
 
-[code](github code link) | [data source](data link)
+[code](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/scripts/day4-bad.R) | [data source](https://simplemaps.com/data/de-cities)
 
-![](github map link) 
+![](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/maps/day4_bad.png) 
 ***
 ### 5. Analog
 
