@@ -33,21 +33,13 @@ A selection of German spa cities that historically have a "bad" prefix or contai
 
 ![](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/maps/day4_bad.png) 
 ***
-### 5. Analog
-
-Description of map.
-
-[code](github code link) | [data source](data link)
-
-![](github map link) 
-***
 ### 6. Asia
 
-Description of map.
+8000m peaks in the Nepalese Himalayas.
 
-[code](github code link) | [data source](data link)
+[code](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/scripts/day6-asia.R)
 
-![](github map link) 
+![](https://github.com/hschmidt12/30DayMapChallenge-2023/blob/main/maps/day6_asia.png) 
 ***
 ### 7. Navigation
 
