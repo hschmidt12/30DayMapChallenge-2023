@@ -76,7 +76,7 @@ p2 <- ggplot() +
         plot.title = element_text(hjust = 0.5, size = 60, color = "#78290f", face = "bold", family = "glory"),
         plot.background = element_rect(fill = "#ffecd1", color = NA))
   
-plots <- p1 + p2 & patchwork::plot_annotation(title = "Deaths from Malaria",
+plots <- p1 + p2 & patchwork::plot_annotation(title = "Deaths from Malaria in Africa",
                                               theme = theme(plot.background = element_rect(fill = "#ffecd1", color = "#ffecd1"),
                                                             plot.title = element_text(size = 100, hjust = 0.5, family = "glory",
                                                                                       color = "#78290f", face = "bold")))
